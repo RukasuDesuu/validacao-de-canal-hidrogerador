@@ -1,0 +1,16 @@
+{
+  "UGA": {
+    "power_tag": "UGA_POTENCIA_ATIVA_MW",
+    "head_tag": "UGA_QUEDA_BRUTA_M",
+    "power_thresholds": [
+      99.94,
+      136.0,
+      172.06
+    ],
+    "head_thresholds": [
+      23.41496,
+      27.76122
+    ],
+    "min_training_points": 361
+  }
+}
