@@ -23,8 +23,8 @@ bayesiana de produção que servem de comparação:
 Os três `__init__.py` foram reescritos para carregar apenas esses módulos, e os identificadores
 da usina (nomes de *tag* e chaves) foram anonimizados como nos dados (seção 3).
 
-Termos de uso: **[A DEFINIR NA AUTORIZAÇÃO DA GENESIS]**. Direitos reservados à Genesis Data
-Culture; publicados aqui com autorização de [nome, data].
+Direitos reservados à Genesis Data Culture. Incluídos aqui apenas para reproduzir os
+resultados da monografia e do artigo.
 
 ## 3. Dados da usina (UG-A / UHE São Manoel)
 
@@ -36,8 +36,7 @@ Culture; publicados aqui com autorização de [nome, data].
   (FMEA) da unidade.
 - `cache/` — escores, atribuições e métricas derivados desses dados pelo pipeline.
 
-Termos de uso: **[A DEFINIR NA AUTORIZAÇÃO]** (sugestão: CC BY 4.0). Publicados com
-autorização obtida por intermédio da Genesis Data Culture ([nome, data]).
+Incluídos apenas para reproduzir os resultados da monografia e do artigo.
 
 Os identificadores da usina e os códigos internos foram anonimizados: a chave da unidade vira
 `UGA`; as *tags* numéricas do historiador viram `UGA_T001` a `UGA_T100`, na ordem das colunas
