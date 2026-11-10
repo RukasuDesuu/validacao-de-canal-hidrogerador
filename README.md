@@ -75,4 +75,9 @@ termos em `NOTICE.md`.
 
 ## Como citar
 
-[referência da monografia e do artigo, quando houver]
+EKROTH, Lucas Camargo. **Detecção e diagnóstico de falhas em hidrogeradores por aprendizado
+não supervisionado e explicabilidade**. 2026. Trabalho de Conclusão de Curso (Bacharelado em
+Engenharia de Controle e Automação) – Instituto Federal de Educação, Ciência e Tecnologia de
+São Paulo, São José dos Campos, 2026.
+
+A referência do artigo será acrescentada quando ele for publicado.
