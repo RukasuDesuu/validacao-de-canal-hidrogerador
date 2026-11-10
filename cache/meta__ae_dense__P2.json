@@ -1,0 +1,18 @@
+{
+  "model": "ae_dense",
+  "protocol": "P2",
+  "kind": "ae_dense",
+  "seed": 42,
+  "epochs": 20,
+  "hidden": "(64, 32)",
+  "latent": 3,
+  "sigma_floor_mode": "none",
+  "train_seconds": 8.9,
+  "n_train_windows": 7454,
+  "n_fit_windows": 1864,
+  "n_cal_windows": 1840,
+  "n_scored_windows": 2863,
+  "n_oc_with_ucl": 6,
+  "ucl_global": 3.2745245579843303,
+  "num_stds": 3.0
+}

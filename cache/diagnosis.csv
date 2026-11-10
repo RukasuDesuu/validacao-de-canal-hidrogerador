@@ -1,0 +1,165 @@
+variant,mode,event,fault_mode,p
+producao,marginal,E1,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),0.8999999999200003
+producao,marginal,E1,#2 Obstrução/entupimento,0.8999999999200003
+producao,marginal,E1,#3 Curto-circuito entre espiras,1.8816728924949854e-06
+producao,marginal,E1,#4 Cargas elétricas desbalanceadas,1.8816728924949854e-06
+producao,marginal,E1,#5 Falha na lubrificação dos mancais,2.581174805700133e-09
+producao,marginal,E1,#6 Parafusos de fixação soltos,2.581174805700133e-09
+producao,marginal,E1,#7 Entupimento,0.012195121972635366
+producao,marginal,E1,#8 Entupimento,0.10000000008000043
+producao,marginal,E1,#9 Perda de pressão,2.58117480570017e-09
+producao,marginal,E1,#10 Desuniformidade do entreferro,1.8816728924949854e-06
+producao,marginal,E1,#11 Vazamento externo,2.58117480570017e-09
+producao,marginal,E1,#12 Falha no comando de acionamento,2.58117480570017e-09
+producao,marginal,E1,#13 Travamento mecânico do atuador,2.58117480570017e-09
+producao,marginal,E2,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),0.0013698630173465845
+producao,marginal,E2,#2 Obstrução/entupimento,0.0013698630173465845
+producao,marginal,E2,#3 Curto-circuito entre espiras,0.9999981183271076
+producao,marginal,E2,#4 Cargas elétricas desbalanceadas,0.9999981183271076
+producao,marginal,E2,#5 Falha na lubrificação dos mancais,2.581174805700133e-09
+producao,marginal,E2,#6 Parafusos de fixação soltos,2.581174805700133e-09
+producao,marginal,E2,#7 Entupimento,0.012195121972635366
+producao,marginal,E2,#8 Entupimento,0.10000000008000011
+producao,marginal,E2,#9 Perda de pressão,2.58117480570017e-09
+producao,marginal,E2,#10 Desuniformidade do entreferro,0.9999981183271076
+producao,marginal,E2,#11 Vazamento externo,2.58117480570017e-09
+producao,marginal,E2,#12 Falha no comando de acionamento,2.58117480570017e-09
+producao,marginal,E2,#13 Travamento mecânico do atuador,2.58117480570017e-09
+producao,categorical,E1,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),0.4965938503416511
+producao,categorical,E1,#2 Obstrução/entupimento,0.4965938503416511
+producao,categorical,E1,#3 Curto-circuito entre espiras,1.0382543843197893e-07
+producao,categorical,E1,#4 Cargas elétricas desbalanceadas,1.0382543843197893e-07
+producao,categorical,E1,#5 Falha na lubrificação dos mancais,1.4242172662393348e-10
+producao,categorical,E1,#6 Parafusos de fixação soltos,1.4242172662393348e-10
+producao,categorical,E1,#7 Entupimento,0.000681198699130179
+producao,categorical,E1,#8 Entupimento,0.006130788286722037
+producao,categorical,E1,#9 Perda de pressão,1.4242172662393552e-10
+producao,categorical,E1,#10 Desuniformidade do entreferro,1.0382543843197893e-07
+producao,categorical,E1,#11 Vazamento externo,1.4242172662393552e-10
+producao,categorical,E1,#12 Falha no comando de acionamento,1.4242172662393552e-10
+producao,categorical,E1,#13 Travamento mecânico do atuador,1.4242172662393552e-10
+producao,categorical,E2,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),8.603915360156734e-10
+producao,categorical,E2,#2 Obstrução/entupimento,8.603915360156734e-10
+producao,categorical,E2,#3 Curto-circuito entre espiras,0.3333333069479897
+producao,categorical,E2,#4 Cargas elétricas desbalanceadas,0.3333333069479897
+producao,categorical,E2,#5 Falha na lubrificação dos mancais,1.6189784766407459e-15
+producao,categorical,E2,#6 Parafusos de fixação soltos,1.6189784766407459e-15
+producao,categorical,E2,#7 Entupimento,7.743523817258002e-09
+producao,categorical,E2,#8 Entupimento,6.969171429337375e-08
+producao,categorical,E2,#9 Perda de pressão,1.618978476640769e-15
+producao,categorical,E2,#10 Desuniformidade do entreferro,0.3333333069479897
+producao,categorical,E2,#11 Vazamento externo,1.618978476640769e-15
+producao,categorical,E2,#12 Falha no comando de acionamento,1.618978476640769e-15
+producao,categorical,E2,#13 Travamento mecânico do atuador,1.618978476640769e-15
+com_no_instrumental,marginal,E1,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),0.8999999999200003
+com_no_instrumental,marginal,E1,#2 Obstrução/entupimento,0.8999999999200003
+com_no_instrumental,marginal,E1,#3 Curto-circuito entre espiras,1.8816728924949854e-06
+com_no_instrumental,marginal,E1,#4 Cargas elétricas desbalanceadas,1.8816728924949854e-06
+com_no_instrumental,marginal,E1,#5 Falha na lubrificação dos mancais,2.581174805700133e-09
+com_no_instrumental,marginal,E1,#6 Parafusos de fixação soltos,2.581174805700133e-09
+com_no_instrumental,marginal,E1,#7 Entupimento,0.012195121972635366
+com_no_instrumental,marginal,E1,#8 Entupimento,0.10000000008000043
+com_no_instrumental,marginal,E1,#9 Perda de pressão,2.58117480570017e-09
+com_no_instrumental,marginal,E1,#10 Desuniformidade do entreferro,1.8816728924949854e-06
+com_no_instrumental,marginal,E1,#11 Vazamento externo,2.58117480570017e-09
+com_no_instrumental,marginal,E1,#12 Falha no comando de acionamento,2.58117480570017e-09
+com_no_instrumental,marginal,E1,#13 Travamento mecânico do atuador,2.58117480570017e-09
+com_no_instrumental,marginal,E1,#14 Falha da cadeia de aquisição,1.881672892494992e-06
+com_no_instrumental,marginal,E2,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),0.0013698630173465845
+com_no_instrumental,marginal,E2,#2 Obstrução/entupimento,0.0013698630173465845
+com_no_instrumental,marginal,E2,#3 Curto-circuito entre espiras,0.9999981183271076
+com_no_instrumental,marginal,E2,#4 Cargas elétricas desbalanceadas,0.9999981183271076
+com_no_instrumental,marginal,E2,#5 Falha na lubrificação dos mancais,2.581174805700133e-09
+com_no_instrumental,marginal,E2,#6 Parafusos de fixação soltos,2.581174805700133e-09
+com_no_instrumental,marginal,E2,#7 Entupimento,0.012195121972635366
+com_no_instrumental,marginal,E2,#8 Entupimento,0.10000000008000011
+com_no_instrumental,marginal,E2,#9 Perda de pressão,2.58117480570017e-09
+com_no_instrumental,marginal,E2,#10 Desuniformidade do entreferro,0.9999981183271076
+com_no_instrumental,marginal,E2,#11 Vazamento externo,2.58117480570017e-09
+com_no_instrumental,marginal,E2,#12 Falha no comando de acionamento,2.58117480570017e-09
+com_no_instrumental,marginal,E2,#13 Travamento mecânico do atuador,2.58117480570017e-09
+com_no_instrumental,marginal,E2,#14 Falha da cadeia de aquisição,0.9999981183271076
+com_no_instrumental,categorical,E1,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),0.4965937987825819
+com_no_instrumental,categorical,E1,#2 Obstrução/entupimento,0.4965937987825819
+com_no_instrumental,categorical,E1,#3 Curto-circuito entre espiras,1.0382542765225851e-07
+com_no_instrumental,categorical,E1,#4 Cargas elétricas desbalanceadas,1.0382542765225851e-07
+com_no_instrumental,categorical,E1,#5 Falha na lubrificação dos mancais,1.4242171183693648e-10
+com_no_instrumental,categorical,E1,#6 Parafusos de fixação soltos,1.4242171183693648e-10
+com_no_instrumental,categorical,E1,#7 Entupimento,0.0006811986284044325
+com_no_instrumental,categorical,E1,#8 Entupimento,0.006130787650190317
+com_no_instrumental,categorical,E1,#9 Perda de pressão,1.4242171183693852e-10
+com_no_instrumental,categorical,E1,#10 Desuniformidade do entreferro,1.0382542765225851e-07
+com_no_instrumental,categorical,E1,#11 Vazamento externo,1.4242171183693852e-10
+com_no_instrumental,categorical,E1,#12 Falha no comando de acionamento,1.4242171183693852e-10
+com_no_instrumental,categorical,E1,#13 Travamento mecânico do atuador,1.4242171183693852e-10
+com_no_instrumental,categorical,E1,#14 Falha da cadeia de aquisição,1.0382542765225888e-07
+com_no_instrumental,categorical,E2,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),6.452936647814758e-10
+com_no_instrumental,categorical,E2,#2 Obstrução/entupimento,6.452936647814758e-10
+com_no_instrumental,categorical,E2,#3 Curto-circuito entre espiras,0.2499999851582439
+com_no_instrumental,categorical,E2,#4 Cargas elétricas desbalanceadas,0.2499999851582439
+com_no_instrumental,categorical,E2,#5 Falha na lubrificação dos mancais,1.214233881509042e-15
+com_no_instrumental,categorical,E2,#6 Parafusos de fixação soltos,1.214233881509042e-15
+com_no_instrumental,categorical,E2,#7 Entupimento,5.807642977870988e-09
+com_no_instrumental,categorical,E2,#8 Entupimento,5.226878675437768e-08
+com_no_instrumental,categorical,E2,#9 Perda de pressão,1.2142338815090593e-15
+com_no_instrumental,categorical,E2,#10 Desuniformidade do entreferro,0.2499999851582439
+com_no_instrumental,categorical,E2,#11 Vazamento externo,1.2142338815090593e-15
+com_no_instrumental,categorical,E2,#12 Falha no comando de acionamento,1.2142338815090593e-15
+com_no_instrumental,categorical,E2,#13 Travamento mecânico do atuador,1.2142338815090593e-15
+com_no_instrumental,categorical,E2,#14 Falha da cadeia de aquisição,0.24999998515824368
+com_no_e_teste_de_canal,marginal,E1,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),0.8999999999200005
+com_no_e_teste_de_canal,marginal,E1,#2 Obstrução/entupimento,0.8999999999200005
+com_no_e_teste_de_canal,marginal,E1,#3 Curto-circuito entre espiras,1.8816728924949885e-06
+com_no_e_teste_de_canal,marginal,E1,#4 Cargas elétricas desbalanceadas,1.8816728924949885e-06
+com_no_e_teste_de_canal,marginal,E1,#5 Falha na lubrificação dos mancais,2.581174805700133e-09
+com_no_e_teste_de_canal,marginal,E1,#6 Parafusos de fixação soltos,2.581174805700133e-09
+com_no_e_teste_de_canal,marginal,E1,#7 Entupimento,0.012195121972635387
+com_no_e_teste_de_canal,marginal,E1,#8 Entupimento,0.10000000008000043
+com_no_e_teste_de_canal,marginal,E1,#9 Perda de pressão,2.58117480570017e-09
+com_no_e_teste_de_canal,marginal,E1,#10 Desuniformidade do entreferro,1.8816728924949885e-06
+com_no_e_teste_de_canal,marginal,E1,#11 Vazamento externo,2.58117480570017e-09
+com_no_e_teste_de_canal,marginal,E1,#12 Falha no comando de acionamento,2.58117480570017e-09
+com_no_e_teste_de_canal,marginal,E1,#13 Travamento mecânico do atuador,2.58117480570017e-09
+com_no_e_teste_de_canal,marginal,E1,#14 Falha da cadeia de aquisição,2.0907511571726785e-07
+com_no_e_teste_de_canal,marginal,E2,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),0.0013698630173465797
+com_no_e_teste_de_canal,marginal,E2,#2 Obstrução/entupimento,0.0013698630173465797
+com_no_e_teste_de_canal,marginal,E2,#3 Curto-circuito entre espiras,0.9999981183271076
+com_no_e_teste_de_canal,marginal,E2,#4 Cargas elétricas desbalanceadas,0.9999981183271076
+com_no_e_teste_de_canal,marginal,E2,#5 Falha na lubrificação dos mancais,2.581174805700124e-09
+com_no_e_teste_de_canal,marginal,E2,#6 Parafusos de fixação soltos,2.581174805700124e-09
+com_no_e_teste_de_canal,marginal,E2,#7 Entupimento,0.012195121972635323
+com_no_e_teste_de_canal,marginal,E2,#8 Entupimento,0.10000000007999979
+com_no_e_teste_de_canal,marginal,E2,#9 Perda de pressão,2.5811748057001607e-09
+com_no_e_teste_de_canal,marginal,E2,#10 Desuniformidade do entreferro,0.9999981183271076
+com_no_e_teste_de_canal,marginal,E2,#11 Vazamento externo,2.5811748057001607e-09
+com_no_e_teste_de_canal,marginal,E2,#12 Falha no comando de acionamento,2.5811748057001607e-09
+com_no_e_teste_de_canal,marginal,E2,#13 Travamento mecânico do atuador,2.5811748057001607e-09
+com_no_e_teste_de_canal,marginal,E2,#14 Falha da cadeia de aquisição,0.9999997909248843
+com_no_e_teste_de_canal,categorical,E1,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),0.4965938446128652
+com_no_e_teste_de_canal,categorical,E1,#2 Obstrução/entupimento,0.4965938446128652
+com_no_e_teste_de_canal,categorical,E1,#3 Curto-circuito entre espiras,1.038254372342322e-07
+com_no_e_teste_de_canal,categorical,E1,#4 Cargas elétricas desbalanceadas,1.038254372342322e-07
+com_no_e_teste_de_canal,categorical,E1,#5 Falha na lubrificação dos mancais,1.4242172498093387e-10
+com_no_e_teste_de_canal,categorical,E1,#6 Parafusos de fixação soltos,1.4242172498093387e-10
+com_no_e_teste_de_canal,categorical,E1,#7 Entupimento,0.0006811986912717629
+com_no_e_teste_de_canal,categorical,E1,#8 Entupimento,0.006130788215996279
+com_no_e_teste_de_canal,categorical,E1,#9 Perda de pressão,1.4242172498093588e-10
+com_no_e_teste_de_canal,categorical,E1,#10 Desuniformidade do entreferro,1.038254372342322e-07
+com_no_e_teste_de_canal,categorical,E1,#11 Vazamento externo,1.4242172498093588e-10
+com_no_e_teste_de_canal,categorical,E1,#12 Falha no comando de acionamento,1.4242172498093588e-10
+com_no_e_teste_de_canal,categorical,E1,#13 Travamento mecânico do atuador,1.4242172498093588e-10
+com_no_e_teste_de_canal,categorical,E1,#14 Falha da cadeia de aquisição,1.1536159702946887e-08
+com_no_e_teste_de_canal,categorical,E2,#1 Sobreaquecimento (desvios do sistema de ventilação do gerador),2.1509789691703878e-10
+com_no_e_teste_de_canal,categorical,E2,#2 Obstrução/entupimento,2.1509789691703878e-10
+com_no_e_teste_de_canal,categorical,E2,#3 Curto-circuito entre espiras,0.08333333173980488
+com_no_e_teste_de_canal,categorical,E2,#4 Cargas elétricas desbalanceadas,0.08333333173980488
+com_no_e_teste_de_canal,categorical,E2,#5 Falha na lubrificação dos mancais,4.0474464345849943e-16
+com_no_e_teste_de_canal,categorical,E2,#6 Parafusos de fixação soltos,4.0474464345849943e-16
+com_no_e_teste_de_canal,categorical,E2,#7 Entupimento,1.935881070532584e-09
+com_no_e_teste_de_canal,categorical,E2,#8 Entupimento,1.7422929619306188e-08
+com_no_e_teste_de_canal,categorical,E2,#9 Perda de pressão,4.047446434585052e-16
+com_no_e_teste_de_canal,categorical,E2,#10 Desuniformidade do entreferro,0.08333333173980488
+com_no_e_teste_de_canal,categorical,E2,#11 Vazamento externo,4.047446434585052e-16
+com_no_e_teste_de_canal,categorical,E2,#12 Falha no comando de acionamento,4.047446434585052e-16
+com_no_e_teste_de_canal,categorical,E2,#13 Travamento mecânico do atuador,4.047446434585052e-16
+com_no_e_teste_de_canal,categorical,E2,#14 Falha da cadeia de aquisição,0.7499999849915764

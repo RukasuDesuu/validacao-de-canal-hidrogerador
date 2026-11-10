@@ -1,0 +1,11 @@
+{
+  "model": "rmwpca_q",
+  "protocol": "P2",
+  "kind": "rmwpca_sc_q",
+  "window": 180,
+  "num_stds": 3.0,
+  "n_cluster_oc_models": 132,
+  "n_clusters_scored": 33,
+  "aggregation": "max sobre clusters",
+  "train_seconds": 632.8
+}

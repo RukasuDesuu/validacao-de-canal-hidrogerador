@@ -1,0 +1,19 @@
+{
+  "model": "iforest",
+  "protocol": "P1",
+  "kind": "isolation_forest",
+  "seed": 42,
+  "n_estimators": 100,
+  "contamination": 0.01,
+  "pca_components": 130,
+  "pca_variance": 0.95,
+  "sigma_floor_mode": "none",
+  "train_seconds": 0.4,
+  "n_train_windows": 4720,
+  "n_fit_windows": 1180,
+  "n_cal_windows": 1156,
+  "n_scored_windows": 10317,
+  "n_oc_with_ucl": 6,
+  "ucl_global": 0.11608961834101005,
+  "num_stds": 3.0
+}

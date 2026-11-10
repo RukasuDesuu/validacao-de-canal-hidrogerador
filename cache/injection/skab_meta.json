@@ -1,0 +1,17 @@
+{
+  "dataset": "skab",
+  "victim": "Current",
+  "sigma_natural": 0.4872434339680449,
+  "n": 9405,
+  "n_channels": 8,
+  "onset": 7053,
+  "deltas_sigma": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "num_stds": 3.0
+}

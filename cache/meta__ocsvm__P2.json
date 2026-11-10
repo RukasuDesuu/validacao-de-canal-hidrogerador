@@ -1,0 +1,19 @@
+{
+  "model": "ocsvm",
+  "protocol": "P2",
+  "kind": "one_class_svm",
+  "kernel": "rbf",
+  "nu": 0.01,
+  "pca_components": 133,
+  "pca_variance": 0.95,
+  "n_train_samples": 1864,
+  "sigma_floor_mode": "none",
+  "train_seconds": 0.4,
+  "n_train_windows": 7454,
+  "n_fit_windows": 1864,
+  "n_cal_windows": 1840,
+  "n_scored_windows": 2863,
+  "n_oc_with_ucl": 6,
+  "ucl_global": 0.8049868894080762,
+  "num_stds": 3.0
+}

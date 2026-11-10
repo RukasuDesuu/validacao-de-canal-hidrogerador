@@ -1,0 +1,18 @@
+{
+  "model": "sensor_check",
+  "protocol": "P1",
+  "kind": "sensor_check",
+  "max_unique": 12,
+  "n_latched": 6,
+  "latched_tags": [
+    "DPP_TRATADA_UGA_T070",
+    "DPP_TRATADA_UGA_T071",
+    "DPP_TRATADA_UGA_T072",
+    "DPP_TRATADA_UGA_T073",
+    "DPP_TRATADA_UGA_T074",
+    "DPP_TRATADA_UGA_T075"
+  ],
+  "ucl_rule": "constante 0.5 (contagem >= 1)",
+  "n_scored_windows": 10317,
+  "train_seconds": 0.4
+}

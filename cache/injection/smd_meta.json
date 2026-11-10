@@ -1,0 +1,17 @@
+{
+  "dataset": "smd",
+  "victim": "d13",
+  "sigma_natural": 0.013822441003589885,
+  "n": 28479,
+  "n_channels": 38,
+  "onset": 21359,
+  "deltas_sigma": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "num_stds": 3.0
+}

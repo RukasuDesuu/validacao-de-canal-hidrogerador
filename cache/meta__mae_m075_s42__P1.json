@@ -1,0 +1,21 @@
+{
+  "model": "mae_m075_s42",
+  "protocol": "P1",
+  "kind": "mae_global",
+  "mask_ratio": 0.75,
+  "seed": 42,
+  "epochs": 20,
+  "d_model": 64,
+  "num_layers": 2,
+  "nhead": 4,
+  "sigma_floor_mode": "none",
+  "train_seconds": 304.4,
+  "device": "cpu",
+  "n_train_windows": 4720,
+  "n_fit_windows": 1180,
+  "n_cal_windows": 1156,
+  "n_scored_windows": 10317,
+  "n_oc_with_ucl": 6,
+  "ucl_global": 3.390377581128858,
+  "num_stds": 3.0
+}

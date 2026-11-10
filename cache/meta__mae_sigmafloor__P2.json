@@ -1,0 +1,21 @@
+{
+  "model": "mae_sigmafloor",
+  "protocol": "P2",
+  "kind": "mae_global",
+  "mask_ratio": 0.5,
+  "seed": 42,
+  "epochs": 20,
+  "d_model": 64,
+  "num_layers": 2,
+  "nhead": 4,
+  "sigma_floor_mode": "global",
+  "train_seconds": 478.0,
+  "device": "cpu",
+  "n_train_windows": 7454,
+  "n_fit_windows": 1864,
+  "n_cal_windows": 1840,
+  "n_scored_windows": 2863,
+  "n_oc_with_ucl": 6,
+  "ucl_global": 0.9542801626269984,
+  "num_stds": 3.0
+}

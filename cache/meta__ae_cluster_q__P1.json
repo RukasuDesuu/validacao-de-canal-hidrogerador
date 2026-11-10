@@ -1,0 +1,15 @@
+{
+  "model": "ae_cluster_q",
+  "protocol": "P1",
+  "kind": "mw_autoencoder_q",
+  "window": 361,
+  "latent_dim": 3,
+  "hidden": "(64, 32)",
+  "epochs": 50,
+  "num_stds": 3.0,
+  "seed": 42,
+  "n_cluster_oc_models": 198,
+  "n_clusters_scored": 33,
+  "aggregation": "max sobre clusters",
+  "train_seconds": 1780.1
+}
