@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+output/
+data_public/skab/
+data_public/smd/
+PEDIDO_AUTORIZACAO.md
