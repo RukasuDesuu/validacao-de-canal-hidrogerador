@@ -128,7 +128,7 @@ def metrics_table(out_path=None) -> str:
     tex = rf"""% Gerado por experiments/tables.py — não editar à mão.
 \begin{{tabular}}{{lcccccc c}}
 \toprule
- & \multicolumn{{2}}{{c}}{{E1 (processo)}} & \multicolumn{{2}}{{c}}{{E2 (sensor)}} & \multicolumn{{2}}{{c}}{{Desempenho}} & Limiar fixo \\
+ & \multicolumn{{2}}{{c}}{{E1 (processo)}} & \multicolumn{{2}}{{c}}{{E2 (canal)}} & \multicolumn{{2}}{{c}}{{Desempenho}} & Limiar fixo \\
 \cmidrule(lr){{2-3}} \cmidrule(lr){{4-5}} \cmidrule(lr){{6-7}} \cmidrule(lr){{8-8}}
 Modelo & det. & atraso (horas) & det. & atraso (horas) & $AR$ & $AP$ & $AR_{{\text{{fixo}}}}$ \\
 \midrule
@@ -164,7 +164,7 @@ def dataset_table(out_path=None) -> str:
         ("Modos de falha (FMEA)", f"{len(fault_modes)}"),
         ("Condições operacionais", f"{ds.oc.nunique()} ($4P \\times 3H$)"),
         ("Janela / passo", f"{WINDOW} h / 1 h (ajuste {TRAIN_STRIDE} h)"),
-        ("Eventos rotulados", "2 (processo, instrumento)"),
+        ("Eventos rotulados", "2 (processo, canal degenerado)"),
     ]
     body = "\n".join(f"{k} & {v} \\\\" for k, v in rows)
     tex = f"""% Gerado por experiments/tables.py — não editar à mão.
