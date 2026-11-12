@@ -1,5 +1,7 @@
 # Validação de canal antes da normalização em hidrogeradores
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24147471.svg)](https://doi.org/10.5281/zenodo.24147471)
+
 Código e dados que reproduzem os resultados da monografia *Detecção e Diagnóstico de Falhas em Hidrogeradores por Aprendizado Não Supervisionado e Explicabilidade* (Lucas Camargo Ekroth,
 IFSP, campus São José dos Campos, 2026) e do artigo derivado dela.
 
@@ -79,5 +81,8 @@ EKROTH, Lucas Camargo. **Detecção e diagnóstico de falhas em hidrogeradores p
 não supervisionado e explicabilidade**. 2026. Trabalho de Conclusão de Curso (Bacharelado em
 Engenharia de Controle e Automação) – Instituto Federal de Educação, Ciência e Tecnologia de
 São Paulo, São José dos Campos, 2026.
+
+Para citar este repositório (código e dados), use o DOI do arquivo no Zenodo:
+[10.5281/zenodo.24147471](https://doi.org/10.5281/zenodo.24147471). Os metadados estão em `CITATION.cff`.
 
 A referência do artigo será acrescentada quando ele for publicado.
